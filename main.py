@@ -9,7 +9,7 @@ from datetime import datetime, timedelta
 
 INTERVAL = Interval.INTERVAL_4_HOURS
 TELEGRAM_TOKEN = '7545760045:AAErtZzBR2-ACWQUt2c0BzWBpJuoo38In3A'
-TELEGRAM_CHANNEL = '@TESTvalBOT89'
+TELEGRAM_CHANNEL = '@valtrade19'
 
 client = UMFutures()
 
